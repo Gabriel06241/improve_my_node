@@ -1,5 +1,6 @@
-# var arrcadena = ["02:35","01:15","02:25","01:35"];
+# Hi, this code is gonna help us to sum from a string with this format hours:minutes -> 00:00
 
+var arrcadena = ["02:35","01:15","02:25","01:35"];
 var hoursInSeconds = 0;
 var minutesInSeconds = 0;
 for(var i=0; i<arrcadena.length; ++i){
